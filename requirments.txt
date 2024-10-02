@@ -1,0 +1,8 @@
+gunicorn==23.0.0
+beautifulsoup4==4.12.3
+requests==2.32.3
+ffmpeg-python==0.2.0
+Flask==3.0.3
+setuptools==75.1.0
+numpy==1.26.4
+opencv-python==4.10.0.84
